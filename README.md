@@ -2,20 +2,22 @@
 
 <p style="width:700px;">
     <img src="/zhigang.jpg" align="right" width="120" hspace="5" vspace="5">
-    现工作于中国海洋大学计算机科学与技术系。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大数据与云计算</u>、<u>分布式大图处理和机器学习</u>以及<u>GPU并行计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文19篇，主持国家、省部级课题5项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>.
+    副教授，现工作于广州大学-网络空间安全学院。本硕博毕业于东北大学，导师为<a href="http://faculty.neu.edu.cn/yuge/">于戈教授</a>，曾赴美国马萨诸撒大学-艾姆霍斯特分校(UMASS Amherst)进行为期两年的CSC联合培养博士学习，导师为<a href="http://www-unix.ecs.umass.edu/~lgao/">Prof. Lixin Gao</a>，并于新加坡国立大学(NUS)计算机学院担任研究助理；主要研究方向为<u>大模型训推加速与安全</u>、<u>大模型赋能智能网络安全攻防</u>、<u>CPU-GPU高性能计算</u>；已在ACM SIGMOD和IEEE TPDS与TKDE等国际顶级会议与期刊发表学术论文30余篇，主持国家、省部级课题6项、参与6项，主持发布开源大图处理系统<a href="https://github.com/HybridGraph/HGraph">[HGraph]</a>.
 </p>
 
 ——————————————————————————————————
 
 ## 基本信息
-**工作单位：** 中国海洋大学 信息科学与工程学院 计算机科学与技术系   
-**现任职称：** 讲师   
-**电子邮箱：** wangzhigang@ouc.edu.cn   
-**办公地址：** 海大崂山校区 信息楼南楼B511   
-**教授课程：** 离散数学I&II(图论)，面向对象的程序设计(C++)，保密宣传教育   
+**工作单位：** 广州大学 网络空间安全学院 网安所   
+**现任职称：** 副教授   
+**电子邮箱：** wangzhigang@gzhu.edu.cn   
+**办公地址：** 广州大学黄埔研究院 B2-709   
+**教授课程：** 网络空间安全数学基础I（离散数学），安全防护中的高性能计算问题研讨（小班研讨课）      
 
-## 教育背景
-2018/09-至今，中国海洋大学，讲师   
+## 个人经历
+2025/02-至今，广州大学，副教授   
+2021/01-2025/01，中国海洋大学，副教授   
+2018/09-2020/12，中国海洋大学，讲师   
 2018/05-2018/08，新加坡国立大学，研究助理   
 2014/12-2016/12，UMASS Amherst, USA，联合培养博士   
 2013/09-2018/01，东北大学，博士   
@@ -23,36 +25,39 @@
 2007/09-2011/07，东北大学，学士   
 
 ## 奖励荣誉
-* 2018，**中国计算机学会(CCF)优秀博士论文奖** <span style="color:red;">**New!**</span>   
+* 2024，广东省计算机学会高等教育教学成果二等奖 <span style="color:red;">**New!**</span>    
+* 2023，**山东省科技进步一等奖**     
+* 2023，**中国计算机学会(CCF)自然科学二等奖**   
+* 2023，山东省计算机学会科技进步一等奖    
+* 2019，美国计算机学会(ACM)青岛优秀新星奖    
+* 2018，**中国计算机学会(CCF)优秀博士论文奖**    
 * 2017，CSC-IBM中国优秀学生奖学金   
 * 2016，博士研究生国家奖学金   
 * 2014，全国数据库学会(NDBC)唯一最佳论文奖和萨师煊优秀学生论文奖   
 * 2013，辽宁省优秀硕士论文   
-* 2010，辽宁省三好学生   
-* 2010，计算机世界奖学金   
-* 2009，沈阳市优秀大学生   
-* 2008-2011，连续三次国家奖学金、东北大学优秀学生标兵   
 
 ## 学术兼职
-* 2019，ICDCS sub-reviewer   
-* 2019，Concurrency and Computation: Practice and Experience (SCI) reviewer   
-* 2017，International Journal of Cooperative Information Systems (SCI) reviewer   
-* 2016，Distributed and Parallel Databases (SCI) reviewer   
+* 中国计算机学会数据库专委执行委员、信息系统专委执行委员
+* 广东省大数据专委委员    
 
 ## 科研项目
-[2020-2022] NSFC-青年 “态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，27万，**负责人** <span style="color:red;">**New!**</span>   
-[2019-2022] 山东省博士后创新项目 “新硬件环境下面向迭代计算的自适应大图数据管理技术”，3万，**负责人** <span style="color:red;">**New!**</span>   
-[2019-2022] 青岛市博士后应用研究项目 “GPU加速的非齐次社交网络并行计算研究”，5万，**负责人** <span style="color:red;">**New!**</span>   
-[2019-2021]	中国博士后科学基金面上项目 “云环境下面向多态查询的动态图数据管理技术”(2019M652474)，8万，**负责人** <span style="color:red;">**New!**</span>   
-[2017-2019]	NSFC-青年 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，20万，参加   
-[2015-2019]	NSFC-重点 “大数据高效能存储与管理方法研究”，395万，参加   
-[2015-2018]	NSFC-面上 “面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，80万，参加   
-[2012-2016]	NSF(美国) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 45万刀，参加   
-[2013-2016]	NSF-面上 “云计算环境下基于BSP模型的大规模图数据查询处理技术”，81万，参加   
-[2012-2014]	教育部-中国移动联合项目 “基于云计算的BSP并行计算方案研究与实现”，180万，参加   
+[2025-2026] 教育部重点实验室开放课题 “支持异构环境下大模型高效训练的分布式数据处理与优化技术研究”(2024ZD016)，**负责人** <span style="color:red;">**New!**</span>   
+[2024-2027] NSFC-重点项目 “海洋大数据知识演化表示与复杂问题协同推理关键技术研究”，参与          
+[2023-2026] NSFC-重点项目 “面向海洋应用的跨模态大数据智能超算模型及其算法研究”，参与      
+[2023-2026] 中央高校基本科研业务费，中国海洋大学交叉团队培育青年项目：人工智能和近海环境预测预报，**子课题负责人**     
+[2020-2022] NSFC-青年 “态云环境下的自适应大图迭代查询处理关键技术研究”(61902366)，**负责人**       
+[2019-2022] 山东省博士后创新项目 “新硬件环境下面向迭代计算的自适应大图数据管理技术”，**负责人**       
+[2019-2022] 青岛市博士后应用研究项目 “GPU加速的非齐次社交网络并行计算研究”，**负责人**      
+[2019-2021]	中国博士后科学基金面上项目 “云环境下面向多态查询的动态图数据管理技术”(2019M652474)，**负责人**       
+[2017-2019]	NSFC-青年 “基于热点导航的大图数据迭代计算过程可视化关键技术研究”，参加   
+[2015-2019]	NSFC-重点 “大数据高效能存储与管理方法研究”，参加   
+[2015-2018]	NSFC-面上 “面向高频多态迭代计算的超大动态图自适应数据管理关键技术”，参加   
+[2012-2016]	NSF(美国) "Theoretical Foundations and Distributed Frameworks for Iterative Computations on Massive Data", 参加   
+[2013-2016]	NSF-面上 “云计算环境下基于BSP模型的大规模图数据查询处理技术”，参加   
+[2012-2014]	教育部-中国移动联合项目 “基于云计算的BSP并行计算方案研究与实现”，参加   
 [2012-2013]	中央高校基本科研业务费项目 “云环境下基于BSP的大规模磁盘驻留图数据处理技术研究” 参加   
 
-## 发表论文
+## 发表论文(待更新)
 ### 一作/通信作者论文(10)：   
 * <u>Zhigang Wang</u>, Yu Gu*, Yubin Bao, Ge Yu, Jeffrey Xu Yu, Zhiqiang Wei*. HGraph: I/O-efficient Distributed and Iterative Graph Computing by Hybrid Pushing/Pulling [J], IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2019, accepted (SCI, 中科院二区, IF=3.857, **CCF Rank-A**) [[PDF]](papers/19_tkde_hgraph_preprint.pdf)[[supplementary]](papers/19_tkde_hgraph_supp.pdf) <span style="color:red;">**New!**</span>    
 * Ning Wang, <u>Zhigang Wang</u>∗, Yu Gu, Yubin Bao, Ge Yu. TSH: Easy-to-be distributed partitioning for large-scale graphs [J], Future Generation Computer Systems (FGCS), 2019, 101:804-818 (SCI, IF=5.768, 中科院一区，CCF Rank-C) [[PDF]](papers/17_FGCS_2019_tsh_partitioning.pdf) <span style="color:red;">**New!**</span>   
@@ -77,4 +82,4 @@
 * 于戈, 谷峪, 鲍玉斌, <u>王志刚</u>. 云计算环境下的大规模图数据处理技术 [J], 计算机学报, 2011, 34(10):1753-1767 (EI, 一级学报) [[PDF]](papers/1_计算机学报_2011_云计算环境下的大规模图数据处理技术.pdf)   
 
 
-**更新时间：2019/12/21**   
+**更新时间：2025/03/28**   
